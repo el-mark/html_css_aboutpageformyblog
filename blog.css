@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+  font-family: "Baskerville";
+}
+
+.niceParagraph, span {
+  background-color: grey;
+  font-family: "Baskerville";
+}
+#finalParagraph {
+  background-color: grey;
+  font-family: "Baskerville";
+}
+footer p {
+  background-color: rgb(10,10,10);
+  color: white;
+}
+header {
+  background-color: rgb(90, 90,   140);
+  font-family: "serif";
+}
+article {
+  font-family: "sans serif";
+}
+table thead {
+	font-weight: bold;
+}
+table {
+	background-color: rgb(167, 178, 255);
+}
